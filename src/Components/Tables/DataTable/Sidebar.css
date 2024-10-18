@@ -1,0 +1,40 @@
+.buttons button,
+select,
+option {
+    padding: 5px 12px;
+    background-color: #428BFA;
+    color: white;
+    border: transparent;
+    margin-left: 3px;
+}
+
+/*Tables*/
+
+.table-responsive {
+    white-space: nowrap;
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+    color: #6d757b;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+    --bs-table-color-type: var(--bs-table-striped-color) !important;
+    --bs-table-bg-type: rgb(0 0 0) !important;
+}
+
+
+.table td, .table th {
+    border-collapse: collapse;
+    vertical-align: middle;
+    color: #6d757b;
+    /* font-size: 17px; */
+    background: black !important;
+}
+
+
+.custom-table {
+    border-collapse: separate !important;
+  }

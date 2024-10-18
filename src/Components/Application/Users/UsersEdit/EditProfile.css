@@ -1,0 +1,10 @@
+
+
+.Edit-button{
+    cursor: pointer;
+    padding: 6px 35px;
+    background: rgb(17, 236, 46);
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}

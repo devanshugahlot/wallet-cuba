@@ -1,0 +1,14 @@
+.user-dropdown{
+    display: none;
+}
+
+@media (max-width:576px){
+    .user-dropdown{
+        display: none;
+    }
+
+    .onhover-dropdown{
+        /* display: none !important; */
+    }
+
+}

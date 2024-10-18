@@ -1,0 +1,44 @@
+
+
+.frist-wallet{ 
+    height: 35px;
+    width: 100px;
+    border: 1px solid rgb(216, 175, 114);
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 7px;
+   
+  }
+
+  .frist-wallet-1{ 
+    height: 35px;
+    width: auto;
+    border: 1px solid rgb(216, 175, 114);
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 7px;
+   
+  }
+  
+  .second-wallet{
+    
+  
+    height: 35px;
+    width: 100px;
+    border: 1px solid rgb(216, 175, 114);
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px;
+    
+    margin-left: 7px;
+  }
+  
+  .secondicon{
+    margin-left: 9px;
+  
+  }
